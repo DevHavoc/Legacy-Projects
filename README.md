@@ -28,7 +28,7 @@ Although legacy, these files allowed me to establish core programming concepts t
 
 ## 🔍 Context & Retrospective
 
-*   **Time Horizon:** These files span across my early university semesters at **UniALFA**.
+*   **Time Horizon:** These files span across my early studies.
 *   **Why keep it public?** Transparency. This repository remains public to preserve the commit history and provide data-driven proof of my code evolution, showcasing the exact gap between structural syntax exercises and high-scale production troubleshooting.
 
 ---
